@@ -17,4 +17,5 @@ and second one microstream dependency:
 
 `libraryDependencies += "one.microstream" % "storage.embedded" % "04.01.00-MS-GA"`
 
-
+## Launch Project
+`sbt run`
