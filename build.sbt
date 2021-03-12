@@ -1,4 +1,4 @@
-name := "example01"
+name := "microstream-scala-example"
 
 version := "0.1"
 
