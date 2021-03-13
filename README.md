@@ -1,5 +1,4 @@
-# microstream-scala-demo
-Microstream Scala Sample
+# Microstream Scala Sample Integration 
 
 The aim of this mini project is to show the simple integration of Microstream technology in the scala programming language.
 
